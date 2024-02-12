@@ -4,6 +4,8 @@ Used to read OOXML spreadsheets.
 
 Cloned from https://rubygems.org/gems/zip/versions/2.0.2
 
+# Documentation found on the Ruby Gems site
+
 # Modifications
 
 - Wrapped the library in my own namespace
